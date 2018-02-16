@@ -1,0 +1,10 @@
+{
+"app": {
+	"background":{
+		"scripts": ["bg.js"]		
+}
+},
+"manifest_version": 2,
+"name": "Simple Imperial to Metric Unit Converter",
+"version": "0.1"
+}
